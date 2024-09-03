@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form3.resources
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form4S.resources
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\vital\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form4.resources
